@@ -3,4 +3,4 @@ Name Finder is a react based app which will suggest names for projects or websit
 ## Author
 
 - Twitter - [@shreeya_kapoor](https://twitter.com/shreeya_kapoor)
-- LinkedIn - [@ShreeyaKapoor] (https://www.linkedin.com/in/shreeya-kapoor-0512/)
+- LinkedIn - [Shreeya Kapoor] (https://www.linkedin.com/in/shreeya-kapoor-0512/)
